@@ -189,9 +189,10 @@ See the `LICENSE` file for more details.
 
 ## 👤 Author
 
-**Yogesh Kinikar**  
-Analyst (BASES IM)
+**Yogesh Kinikar** - Analyst (NielsenIQ)
+
 yogeshsk19.pumba@gmail.com
+
 If you have suggestions or feedback, feel free to open an Issue or Pull Request.
 
 ---
